@@ -1,0 +1,43 @@
+body{
+  background-color:#def4f0;
+}
+hr{
+  /* background-color: white; */
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  /* height: 2px; */
+  width: 20%;
+
+}
+
+h1,h3{
+  color: #63b7af;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+
+/*********************class css******************/
+
+.gr{
+  background-color: green;
+}
+.ye{
+  background-color: yellow;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+.dim{
+  height: 300px;
+  width: 300px;
+}
+
+#he{
+  border-color: red;
+}
